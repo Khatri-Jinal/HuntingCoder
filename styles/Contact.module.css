@@ -1,0 +1,22 @@
+.formGroup{
+    margin-bottom: 22px;
+}
+.label{
+    display: block;
+    width:100%;
+    margin-bottom: 8px;
+}
+.formControl{
+    width:100%;
+    background-color: rgb(255, 221, 180);
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.submit{
+    padding: 10px 12px;
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+}
